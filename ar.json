@@ -32,10 +32,6 @@
     "accountStats": "إحصاءات الحساب",
     "modSettings": "إعدادات المود",
     "language": "اللغة",
-    "languageAuto": "تلقائي (لغة اللعبة)",
-    "languageEnglish": "الإنجليزية",
-    "languageRussian": "الروسية",
-    "languageTurkish": "التركية",
     "translateModNames": "ترجمة أسماء المودات",
     "modNames": {
         "X-RAY": "X-RAY",

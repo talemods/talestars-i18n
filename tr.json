@@ -32,10 +32,6 @@
     "accountStats": "Hesap Bilgileri",
     "modSettings": "MOD AYARLARI",
     "language": "Dil",
-    "languageAuto": "Otomatik (oyun diline göre)",
-    "languageEnglish": "İngilizce",
-    "languageRussian": "Rusça",
-    "languageTurkish": "Türkçe",
     "translateModNames": "Mod İsimlerini Çevir",
     "modNames": {
         "X-RAY": "X-Ray",
