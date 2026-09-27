@@ -43,3 +43,4 @@ Once your translation is complete, you can submit it by creating a pull request.
 | 🇧🇷 Brazilian Portuguese | Completely Added | [@rwz0000](https://github.com/rwz0000) | [#4](../../pull/4) |
 | 🇩🇪 German | Completely Added | [@m8rneco-a11y](https://github.com/m8rneco-a11y) | [#5](../../pull/5) |
 | 🇨🇳 Chinese | Completely Added | [@Aur5411](https://github.com/Aur5411) | [#7](../../pull/7) |
+| 🇫🇷 French | Completely Added | [@mydd7](https://github.com/mydd7) | [#10](../../pull/10) |
